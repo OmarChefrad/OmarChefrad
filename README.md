@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **Backend webdev**
 
-- 👨‍💻 All of my projects are available at [https://github.com/OmarChefrad](https://github.com/OmarChefrad)
+- 👇🏾 All of my projects are available at [https://github.com/OmarChefrad](https://github.com/OmarChefrad)
 
 - 💬 Ask me about **frontend javascript**
 
