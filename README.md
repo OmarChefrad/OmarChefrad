@@ -7,4 +7,3 @@
 
 - 💬 Ask me about **frontend webApps**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarchefrad&count_private=true&show_icons=true&hide_title=true&locale=en" alt="omarchefrad" /></p>
